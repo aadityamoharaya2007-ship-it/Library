@@ -1,6 +1,6 @@
 # Library API (Node + Express + MongoDB)
 
-**Author:** Mayank Sharma
+**Author:** Aaditya Moharaya
 
 
 ## Overview
